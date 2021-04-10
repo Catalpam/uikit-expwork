@@ -1,0 +1,15 @@
+//
+//  IngrendientMeasurement+CoreDataClass.swift
+//  A2-iOSPortfolioTasks
+//
+//  Created by user176152 on 4/9/21.
+//
+//
+
+import Foundation
+import CoreData
+
+@objc(IngrendientMeasurement)
+public class IngrendientMeasurement: NSManagedObject {
+
+}
